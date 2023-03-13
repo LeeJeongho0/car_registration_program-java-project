@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/-Java-orange">
 <img src="https://img.shields.io/badge/-MySql-blue">
 
+## 구현 기능
 - MySql ERD  
 ![0  ERD_Upload](https://user-images.githubusercontent.com/126849367/224603150-0771f69a-7781-4595-b197-4904ee02aa50.png)
 
@@ -29,3 +30,36 @@
 
 - [차량(방문객) 등록]  
 ![0  ERD_Upload](https://user-images.githubusercontent.com/126849367/224605156-b9375516-025a-40d2-a9b5-e23a3d217ddd.png)
+
+- [데이터(입주민) 출력]  
+![제목 없음](https://user-images.githubusercontent.com/126849367/224696319-bd29f2cc-df95-425b-b805-90e74211cf1f.png)
+
+- [데이터(방문객) 출력]  
+![제목 없음11](https://user-images.githubusercontent.com/126849367/224696349-c37ffac1-11ad-4c00-9cc2-db8e99271b3f.png)
+
+- [데이터(입주민) 검색]  
+![22](https://user-images.githubusercontent.com/126849367/224697259-9ddc81e9-ce34-45f8-a44a-1019263636d6.png)
+
+- [데이터(방문객) 검색]  
+![444](https://user-images.githubusercontent.com/126849367/224697524-edbabe61-5e44-4470-aa93-b4a7ac35b25b.png)
+
+- [데이터(입주민) 수정]  
+![123](https://user-images.githubusercontent.com/126849367/224698476-10043e4a-5281-4681-afe1-e07e7c86c943.png)
+
+- [데이터(방문객) 수정]  
+![1234](https://user-images.githubusercontent.com/126849367/224698494-31374e9c-bce3-4915-ad46-13fde2d273dd.png)
+
+- [데이터(입주민) 등록 날짜순 정렬]  
+![1](https://user-images.githubusercontent.com/126849367/224700499-7ce83f36-934d-4fa8-ace8-dd3284dcfda1.png)
+
+- [데이터(방문객) 등록 날짜순 정렬]  
+![2](https://user-images.githubusercontent.com/126849367/224700514-a30abb9d-cdcc-43f2-a696-8b1d5718ee04.png)
+
+- [데이터(입주민) 삭제]  
+![3](https://user-images.githubusercontent.com/126849367/224701377-324fc5f0-b227-45a4-9fc2-a54304e62942.png)
+
+- [데이터(방문객) 삭제]  
+![4](https://user-images.githubusercontent.com/126849367/224701396-f358d7d3-75b7-410f-95ef-a45895f439bd.png)
+
+- [종료]  
+![5](https://user-images.githubusercontent.com/126849367/224701829-373480b8-658c-4b15-9f17-f81d389ec056.png)
