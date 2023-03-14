@@ -26,10 +26,10 @@
 ![0  ERD_Upload](https://user-images.githubusercontent.com/126849367/224603150-0771f69a-7781-4595-b197-4904ee02aa50.png)
 
 - [차량(입주민) 등록]  
-![0  ERD_Upload](https://user-images.githubusercontent.com/126849367/224604847-040f2aca-00cd-4002-a45b-2a1bb3eff1bc.png)
+![image](https://user-images.githubusercontent.com/126849367/224860575-5dd0872a-082a-48b3-8494-711e895a91ce.png)
 
 - [차량(방문객) 등록]  
-![0  ERD_Upload](https://user-images.githubusercontent.com/126849367/224605156-b9375516-025a-40d2-a9b5-e23a3d217ddd.png)
+![3333](https://user-images.githubusercontent.com/126849367/224860798-da3e0179-05cb-4a2a-8f49-d57a29af8cf5.png)
 
 - [데이터(입주민) 출력]  
 ![제목 없음](https://user-images.githubusercontent.com/126849367/224696319-bd29f2cc-df95-425b-b805-90e74211cf1f.png)
@@ -63,3 +63,7 @@
 
 - [종료]  
 ![5](https://user-images.githubusercontent.com/126849367/224701829-373480b8-658c-4b15-9f17-f81d389ec056.png)
+
+
+
+
