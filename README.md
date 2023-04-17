@@ -10,7 +10,7 @@
 | Language | Java 17.0.6 |
 | Editor | Eclipse IDE 2022-06 (4.24.0) |
 | DBMS | MySQL Workbench 8.0.17 |
-| Github | https://github.com/LeeJeongho0/CarRegistrationProgram-JavaProject |
+| Github | https://github.com/LeeJeongho0/car_registration_program-java-project |
 
 ## 개발 기간
 2023-03-04(Sat) ~ 2023-03-04(Sat)
