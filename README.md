@@ -13,7 +13,7 @@
 | Github | https://github.com/LeeJeongho0/car_registration_program-java-project |
 
 ## 개발 기간
-2023-03-04(Sat) ~ 2023-03-04(Sat)
+2023-03-03(Fri) ~ 2023-03-05(Sun)
 
 ## 적용 기술 및 구현 기능
 
